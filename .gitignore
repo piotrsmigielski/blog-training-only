@@ -1,0 +1,11 @@
+*.pyc
+__pycache__
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/my1stdjango.iml
+.idea/workspace.xml
+db.sqlite3
+m1d
+.DS_Store
+
